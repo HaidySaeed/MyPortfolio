@@ -1,0 +1,176 @@
+{
+  "personal": {
+    "name": "Haidy Saied Tawfik",
+    "title": "Senior Software Test Engineer",
+    "subtitle": "QA Automation & AI Quality Engineer",
+    "description": "Building scalable test automation frameworks, QA platforms, and AI-powered testing solutions for web, mobile, and API applications. Specialized in ensuring precision through rigorous automation.",
+    "downloadCvUrl": "#",
+    "linkedInUrl": "https://www.linkedin.com/in/haidy-said-41347b223/",
+    "gitHubUrl": "https://github.com/HaidySaeed",
+    "profileImagePath": "/images/profile2.png"
+  },
+  
+  "about": {
+    "title": "The Professional Persona",
+    "tagline": "I am a Senior QA Automation Engineer with 3 years of experience with specialized focus on bridging the gap between traditional software quality and the emerging world of AI-integrated systems.",
+    "paragraphs": [
+      "With deep expertise in Telecom, FinTech, ERP, and Sustainability sectors, I don't just 'find bugs'—I build infrastructure to prevent them. My approach combines the rigor of manual functional testing with the speed of advanced automation using Playwright, Selenium, and Appium.",
+      "Currently, I am pioneering AI-powered QA workflows, leveraging n8n, Large Language Models (LLMs), and prompt engineering to automate test case generation and optimize the entire testing lifecycle."
+    ]
+  },
+  "skills": [
+    {
+      "category": "Testing Methodology",
+      "items": [
+        { "name": "Manual", "icon": "check_circle" },
+        { "name": "Functional", "icon": "verified" },
+        { "name": "Regression" },
+        { "name": "UAT" },
+        {"name": "Agile"},
+        {"name":"Apis"},
+        {"name": "Postman , GraphQL"},
+        {"name":"Database"}
+      ]
+    },
+    {
+      "category": "Automation Engines",
+      "items": [
+        { "name": "Playwright", "icon": "precision_manufacturing" },
+        { "name": "Selenium" },
+        { "name": "Appium" },
+        { "name": "RestAssured" }
+      ]
+    },
+    {
+      "category": "AI & Intelligence",
+      "items": [
+        { "name": "n8n", "icon": "psychology", "highlight": true },
+        { "name": "LLM Integration", "highlight": true },
+        { "name": "Prompt Engineering", "highlight": true }
+      ]
+    }
+  ],
+  "projects": [
+    {
+      "title": "QA Automation Hub",
+      "tags": ["Playwright", "TypeScript"],
+  "description": "Centralized dashboard for executing automation suites, tracking results, and integrating GitHub Actions workflows.",
+      "buttonText": "Explore more",
+      "buttonLink": "#",
+      "image": "/images/QAhub.png"
+    },
+    {
+      "title": "AI-Powered Test Gen using n8n",
+      "tags": ["n8n", "GPT-4","Clude"],
+  "description": "AI workflow that analyzes requirements and automatically generates test cases, reports, and QA documentation.",
+      "buttonText": "Explore more",
+      "buttonLink": "#",
+      "image": "/images/ai-test-generator.png",
+      "isFeatured": true
+    },
+    {
+      "title": "Playwright Framework",
+      "tags": ["POM", "Automation","playwright","Cursor"],
+  "description": "Scalable Playwright framework built with TypeScript and POM architecture for web and API automation.",
+      "buttonText": "Explore more",
+      "buttonLink": "#",
+      "image": "/images/playrightPro.jpg"
+    },
+    {
+      "title": "Vodafone e-shop Framework",
+      "tags": ["POM", "Automation","selenium","Cucumber"],
+    "description": "Selenium-Cucumber framework automating Vodafone eShop customer journeys and regression testing.",
+      "buttonText": "Explore more",
+      "buttonLink": "#",
+      "image": "/images/vodafone.png"
+    },
+    {
+      "title": "Octo Mobile App",
+      "tags": ["POM", "Automation","selenium","Appium","RestAssured"],
+      "description": "QA automation for FinTech mobile and APIs using Selenium, Appium, and RestAssured.",
+      "buttonText": "Explore more",
+      "buttonLink": "#",
+      "image": "/images/octo.jpeg"
+    }
+  ],
+  "experience": [
+    {
+      "period": "Sep 2025 - Present",
+      "role": "Senior Software Automation Testing Engineer",
+      "company": "Tagaddod",
+      "description": "Leading automation strategy and quality assurance activities for web and mobile applications.",
+      "bullets": [
+        "Lead QA strategy & automation pipelines for enterprise-scale sustainability web and mobile applications.",
+        "Engineered a custom, modular Playwright end-to-end testing framework from scratch using TypeScript and POM architecture.",
+        "Developed robust mobile automation suites using Appium and orchestrated parallel cross-device coverage.",
+        "Pioneering workflows utilizing n8n and LLM orchestration to generate automated test cases.",
+        "Conducted performance benchmarking with Apache JMeter, API validation (GraphQL), and SQL schema verification.",
+        "Designed and integrated a centralized QA Automation Hub with GitHub Actions for seamless continuous delivery."
+      ],
+      "skills": ["Playwright", "TypeScript", "Appium", "n8n", "GraphQL", "JMeter", "GitHub Actions"]
+    },
+    {
+      "period": "Jan 2025 - Sep 2025",
+      "role": "QA Automation Engineer",
+      "company": "Vodafone Egypt",
+      "description": "Contributed to the quality assurance and automation of Vodafone eShop, a large-scale telecom e-commerce platform.",
+      "bullets": [
+        "Ensured high availability and exact customer journey flow for Vodafone eShop (high-traffic telecom e-commerce).",
+        "Developed robust web UI and checkout automation test scripts using Selenium Web Driver, Java, and Cucumber BDD.",
+        "Contributed to iOS mobile automation test suites using Appium to secure high-frequency releases.",
+        "Orchestrated manual end-to-end validation of complex customer purchase patterns and pricing algorithms.",
+        "Embedded thoroughly with cross-functional Agile teams to accelerate regression analysis and build stability."
+      ],
+      "skills": ["Selenium", "Java", "Cucumber BDD", "Appium", "Agile Testing", "Telecom QA"]
+    },
+    {
+      "period": "Jun 2024 - Jul 2025",
+      "role": "QC Engineer",
+      "company": "Naya El-Elm",
+      "description": "Performed quality assurance activities for ERP, CRM, and mobile applications serving beauty salon businesses.",
+      "bullets": [
+        "Architected comprehensive manual and automated quality control activities for ERP and CRM SaaS applications.",
+        "Handled precise end-to-end REST API validation and integration checking cycles using Postman.",
+        "Spearheaded performance benchmarking, load, and scalability testing across backend services with JMeter.",
+        "Designed comprehensive test plans, validation matrices, and regression catalogs for mobile business apps."
+      ],
+      "skills": ["ERP / CRM", "Postman", "API Testing", "JMeter", "Manual Functional", "Regression Testing"]
+    },
+    {
+      "period": "Oct 2022 - Dec 2024",
+      "role": "QA/QC Automation Engineer",
+      "company": "Octo FinTech",
+      "description": "Worked on FinTech products covering web, mobile, and API platforms.",
+      "bullets": [
+        "Validated complex multi-channel financial transactions, account ledgers, and secure payment integrations.",
+        "Built responsive functional web and mobile automation suites using Selenium and Appium.",
+        "Developed custom back-end integration test suites using RestAssured and Java.",
+        "Formulated optimized database regression verification layers using advanced SQL query validations.",
+        "Enforced rigorous security and performance testing using JMeter under strict sprint schedules."
+      ],
+      "skills": ["Selenium", "Appium", "RestAssured", "Postman", "SQL Validation", "JMeter", "FinTech QA"]
+    }
+  ]
+,
+  "education": {
+    "degree": "BS Computer Science",
+    "institution": "Ain Shams University",
+    "major": "Major: Bioinformatics and datascience"
+  },
+  "certifications and Courses": [
+    {
+      "title": "ISTQB",
+      "body": "Foundation Level"
+    },
+    {
+      "title": "AI & ML Specializations",
+      "body": "Machine Learning | Deep Learning | NLP (Coursera/DeepLearning.AI)"
+    }
+  ],
+  "contact": {
+    "ctaTitle": "Let's Secure Your Next Release",
+    "ctaText": "Whether you're building a complex enterprise dashboard or a cutting-edge AI application, quality shouldn't be an afterthought. Let's talk about building your automation strategy.",
+    "email": "haidysaid32@gmail.com",
+    "phone": "+20 1126272662"
+  }
+}
